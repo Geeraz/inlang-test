@@ -211,7 +211,7 @@
 	"enter_email": "Unesi svoj e-mail",
 	"subscribe_newsletter": "Pretplati se na newsletter",
 	"thank_subscribe": "Hvala na pretplati, {email}!",
-	"contact": "KONTAKT",
+	"contact": "Kontakt",
 	"all_rights_reserved": "Sva prava pridržana.",
 	"links": "POVEZNICE",
 	"about_us": "O NAMA",
@@ -320,7 +320,7 @@
 	"filters_description": "Preciziraj događaje po kategoriji, tipu i datumu.",
 	"active_filters": "Aktivni filteri",
 	"pick_date_range": "Odaberi raspon datuma",
-	"clear": "Poništi",
+	"reset": "Poništi",
 	"no_filters_yet": "Nema još filtera",
 	"show_results": "Prikaži rezultate",
 	"access_denied": "Pristup odbijen",
@@ -986,6 +986,7 @@
 	"nav_terms_desc": "Pravni uvjeti i odredbe",
 	"nav_faq_title": "Pomoć i Česta pitanja",
 	"nav_faq_desc": "Često postavljana pitanja",
+	"preparing_your_experience": "Priprema vašeg sadržaja",
 	"your_order": "Vaša narudžba",
 	"generic_error_title": "Nešto je pošlo po zlu",
 	"generic_error_desc": "Ispričavamo se zbog neugodnosti. Došlo je do neočekivane pogreške.",
@@ -1068,5 +1069,6 @@
 	"success_title": "Uspješno",
 	"profile_picture": "Slika profila",
 	"theme": "Tema",
-	"language": "Jezik"
+	"language": "Jezik",
+	"jobs": "Poslovi"
 }

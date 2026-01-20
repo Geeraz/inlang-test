@@ -211,7 +211,7 @@
 	"enter_email": "Gib deine E-Mail ein",
 	"subscribe_newsletter": "Newsletter abonnieren",
 	"thank_subscribe": "Danke für dein Abonnement, {email}!",
-	"contact": "KONTAKT",
+	"contact": "Kontakt",
 	"all_rights_reserved": "Alle Rechte vorbehalten.",
 	"links": "LINKS",
 	"about_us": "ÜBER UNS",
@@ -320,7 +320,7 @@
 	"filters_description": "Veranstaltungen nach Kategorie, Typ und Datum verfeinern.",
 	"active_filters": "Aktive Filter",
 	"pick_date_range": "Datumsbereich wählen",
-	"clear": "Zurücksetzen",
+	"reset": "Zurücksetzen",
 	"no_filters_yet": "Noch keine Filter",
 	"show_results": "Ergebnisse anzeigen",
 	"access_denied": "Zugriff verweigert",
@@ -986,6 +986,7 @@
 	"nav_terms_desc": "Rechtliche Bedingungen",
 	"nav_faq_title": "Hilfe & FAQ",
 	"nav_faq_desc": "Häufig gestellte Fragen",
+	"preparing_your_experience": "Deine Erfahrung wird bereitgestellt",
 	"your_order": "Ihre Bestellung",
 	"generic_error_title": "Etwas ist schiefgelaufen.",
 	"generic_error_desc": "Wir entschuldigen uns für die Unannehmlichkeiten. Es ist ein unerwarteter Fehler aufgetreten.",
@@ -1068,5 +1069,7 @@
 	"success_title": "Erfolg",
 	"profile_picture": "Profilbild",
 	"theme": "Thema",
-	"language": "Sprache"
+	"language": "Sprache",
+
+	"jobs": "Jobs"
 }
